@@ -27,4 +27,4 @@ High quality recording of [CMU Arctic prompts](http://www.festvox.org/cmu_arctic
 
 ---
 
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">This work   is licensed under <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0">CC CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc0.svg?ref=chooser-v1" /></a></p>
+This work is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0)
