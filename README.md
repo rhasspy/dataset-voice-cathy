@@ -2,7 +2,7 @@
 
 High quality recording of [CMU Arctic prompts](http://www.festvox.org/cmu_arctic/) by a native female U.S. English speaker.
 
-Sample: <audio controls href="https://github.com/rhasspy/dataset-voice-cathy/raw/master/data/arctic_a0366_1592708614.wav"></audio>
+<a title="A wildly exciting time was his during the week preceding Thursday the eighteenth." href="https://github.com/rhasspy/dataset-voice-cathy/raw/master/data/arctic_a0366_1592708614.wav">Sample</a>
 
 ## Dataset
 
