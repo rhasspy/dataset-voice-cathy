@@ -1,4 +1,4 @@
-# Voice Dataset (Cathy)
+# Voice Dataset (Kathleen)
 
 High quality recording of [CMU Arctic prompts](http://www.festvox.org/cmu_arctic/) by a native female U.S. English speaker.
 
